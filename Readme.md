@@ -4,7 +4,7 @@ https://spl.robocup.org/
 
 This archive contains all approved jerseys for the RoboCup Standard Platform League.
 
-Check the leagues rules documents for design requirements for jerseys.
+Check the leagues [rules document](https://spl.robocup.org/downloads/) for design requirements for jerseys.
 
 Send new designs via e-mail to rc-spl-tc@lists.robocup.org for approval.
 
