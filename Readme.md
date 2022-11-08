@@ -19,7 +19,7 @@ Baseline release containing all current jerseys.
 - R-ZWEI KICKERS
   - New team joined the league.
 - B-Human
-  - Re-manufactured new jerseys with similar design, but starts were updated.
+  - Re-manufactured new jerseys with similar design, but stars were updated.
 - Dutch Nao Team
   - Re-manufactured orange jerseys with similar design.
   - Clarified: Orange is the home color.
