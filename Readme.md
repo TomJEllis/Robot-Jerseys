@@ -27,3 +27,8 @@ Baseline release containing all current jerseys.
   - Re-manufactured jerseys with with similar design.
 - rUNSWift
   - New design for blue jerseys.
+
+### 2022
+
+- New jerseys by most teams due to rule changes
+  -  HULKs, B-Human, rUNSWift, Dutch Nao Team, HTWK Robots, RedBackBots, Naova, UT Austin Villa, R-ZWEI KICKERS, Bembelbots, SPQR Team, BadgerBots, RoboEireann, Nao Devils, NomadZ, Rinobot-Jaguar, Berlin United
