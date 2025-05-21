@@ -32,3 +32,8 @@ Baseline release containing all current jerseys.
 
 - New jerseys by most teams due to rule changes
   -  HULKs, B-Human, rUNSWift, Dutch Nao Team, HTWK Robots, RedBackBots, Naova, UT Austin Villa, R-ZWEI KICKERS, Bembelbots, SPQR Team, BadgerBots, RoboEireann, Nao Devils, NomadZ, Rinobot-Jaguar, Berlin United
+
+### 2025
+- Dutch Nao Team
+  - New Versions of previous colours
+  - New Alternative colours
