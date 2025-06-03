@@ -37,3 +37,6 @@ Baseline release containing all current jerseys.
 - Dutch Nao Team
   - New Versions of previous colours
   - New Alternative colours
+  
+- AIRams
+  - New Blue and White Jerseys
